@@ -3,7 +3,7 @@
 Designed by Mohammad Aljumaah . mohammad-aljumaah.me
 
 A simple clock pulse generator built with the NE555P timer IC.
-Outputs a ~7 Hz square wave — useful for clocking counters, shift registers, and other digital circuits.
+Outputs a ~7 Hz square wave. useful for clocking counters, shift registers, and other digital circuits.
 
 Designed from scratch in KiCad. Includes schematic, PCB layout, Gerbers, and a full datasheet.
 
@@ -55,7 +55,7 @@ Recommended: **2 layers · FR-4 · 1.6 mm · HASL**
 
 ## Documentation
 
-See [`Documentation/datasheet.pdf`](Documentation/datasheet.pdf) for the full datasheet — includes BOM, pinout, how to use it, how to change the speed, and safety notes.
+See [`Documentation/datasheet.pdf`](Documentation/datasheet.pdf) for the full datasheet. includes BOM, pinout, how to use it, how to change the speed, and safety notes.
 
 ---
 
