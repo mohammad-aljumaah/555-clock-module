@@ -1,6 +1,6 @@
 # 555 Clock Module
 
-Designed by Mohammad Aljumaah . mohammad-aljumaah.me
+Designed by **Mohammad Aljumaah** · [mohammad-aljumaah.me](https://mohammad-aljumaah.me)
 
 A simple clock pulse generator built with the NE555P timer IC.
 Outputs a ~7 Hz square wave. useful for clocking counters, shift registers, and other digital circuits.
