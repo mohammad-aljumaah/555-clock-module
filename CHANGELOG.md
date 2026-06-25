@@ -3,6 +3,6 @@ All notable changes to this project will be documented here.
 
 ---
 
-## [Rev A] 24-06-2026
+## [Rev A] 2026-06-24
 
 Initial Release
