@@ -40,4 +40,8 @@ fp-info-cache
 .history
 
 # Local project settings
+<<<<<<< HEAD
 *.kicad_prl
+=======
+*.kicad_prl
+>>>>>>> 899891b3453ac607d04688dd07cf375b5679f543
